@@ -1,1 +1,1 @@
-"# sun-asterisk-training" 
+# This repository includes study notes taken during the Internship program of Sun*
